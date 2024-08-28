@@ -26,9 +26,15 @@ class HomeFragment : Fragment() {
 
         binding.swEgo.isChecked = true
         setAllOtherSwitchesEnabled(false)
+        binding.bottomNav.visibility = View.INVISIBLE
         binding.swEgo.setOnCheckedChangeListener { _, isChecked ->
             setAllOtherSwitchesEnabled(!isChecked)
             resetAllOtherSwitches()
+            if (!isChecked){
+                binding.bottomNav.visibility = View.VISIBLE
+            }else{
+                binding.bottomNav.visibility = View.INVISIBLE
+            }
         }
         val navController = findNavController()
         binding.bottomNav.setupWithNavController(navController)
