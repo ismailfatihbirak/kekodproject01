@@ -31,10 +31,10 @@ Each item in the BottomNavigationBar navigates to its own detail screen. Ensure 
 DataBinding or ViewBinding is used across all screens in the application.
 
 ## Screenshoots
-| Welcome | Sign Up |
-| ------ | ---- | 
-|<img src="https://github.com/user-attachments/assets/23578497-9046-460a-b6a3-26d7c0b0b615" width="250" height="500"/>|<img src="https://github.com/user-attachments/assets/c82a7c54-2a69-4663-86b1-f72f73b562ad" width="250" height="500"/>|
-
+| Home | Home | Detail |
+| ------ | ---- | ---- | 
+|<img src="https://github.com/user-attachments/assets/5a74b18c-30a3-4d28-b515-65e868832d8c" width="250" height="500"/>|<img src="https://github.com/user-attachments/assets/23578497-9046-460a-b6a3-26d7c0b0b615" width="250" height="500"/>|<img src="https://github.com/user-attachments/assets/c82a7c54-2a69-4663-86b1-f72f73b562ad" width="250" height="500"/>|
 </br>
+
 
 
