@@ -31,10 +31,9 @@ Each item in the BottomNavigationBar navigates to its own detail screen. Ensure 
 DataBinding or ViewBinding is used across all screens in the application.
 
 ## Screenshoots
-| Home | Home | Detail |
+| Splash | Home | Home |
 | ------ | ---- | ---- | 
-|<img src="https://github.com/user-attachments/assets/5a74b18c-30a3-4d28-b515-65e868832d8c" width="250" height="500"/>|<img src="https://github.com/user-attachments/assets/23578497-9046-460a-b6a3-26d7c0b0b615" width="250" height="500"/>|<img src="https://github.com/user-attachments/assets/c82a7c54-2a69-4663-86b1-f72f73b562ad" width="250" height="500"/>|
-</br>
-
-
+|<img src="https://github.com/user-attachments/assets/97128a44-6c1a-4abb-bd02-e32bbd3fdd59" width="250" height="500"/>|<img src="https://github.com/user-attachments/assets/4b04b654-81ec-42e3-b04f-821661682e59" width="250" height="500"/>|<img src="https://github.com/user-attachments/assets/57d63352-4e77-487e-97c9-4525b9cdc550" width="250" height="500"/>|
+| Kitkat | Lollipop | 
+|<img src="https://github.com/user-attachments/assets/5ead8dcc-c55e-48c2-b0d5-40a3ded1f3a1" width="250" height="500"/>|<img src="https://github.com/user-attachments/assets/33a91e00-2ec9-42dc-8e45-dd500386d1f6" width="250" height="500"/>|<img src="https://github.com/user-attachments/assets/37d604c5-ba17-4f55-ad78-b7b186c06807" width="250" height="500"/>|
 
