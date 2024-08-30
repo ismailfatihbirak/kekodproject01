@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="_160dp">160dp</dimen>
+    <dimen name="title">22sp</dimen>
+    <dimen name="relase_date">20sp</dimen>
+    <dimen name="features">17sp</dimen>
+</resources>

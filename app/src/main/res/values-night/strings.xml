@@ -1,15 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">kekodproject01</string>
-    <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
-    <string name="switch_ego">Ego</string>
-    <string name="switch_1">Kitkat</string>
-    <string name="switch_2">Oreo</string>
-    <string name="switch_3">Marshmallow</string>
-    <string name="switch_4">Lollipop</string>
-    <string name="switch_5">Nougat</string>
-    <string name="home">Home</string>
-    <string name="toast_message">Menüye daha fazla öğe eklenemez.</string>
     <string name="kitkat_text">Özellikler:\n- Düşük Bellek Kullanımı: Daha az bellek tüketimi için optimize edildi.\n- Tam Ekran Modu: Full-screen moda geçiş ve arayüzde daha fazla yer kazanma.\n- Yeni Kilit Ekranı: Ekran üzerinde daha fazla etkileşim ve hızlı erişim.\n- Kamera İyileştirmeleri: Kamera performansında iyileştirmeler ve hızlı çekim modu.\n- Google Now: Google Now entegrasyonu ve daha iyi sesli asistan performansı.</string>
     <string name="kitkat_release_date">Çıkış Tarihi: Ekim 2013</string>
     <string name="kitkat_title">Android KitKat (4.4)</string>
@@ -19,7 +9,6 @@
     <string name="marshmallow_title">Android Marshmallow (6.0)</string>
     <string name="marshmallow_releasedate">Çıkış Tarihi: Ekim 2015</string>
     <string name="marshmallow_text">Özellikler:\n- Doze Mode: Pil ömrünü uzatan uyku modu.\n- Kullanıcı İzinleri: Uygulama izinlerini daha detaylı kontrol etme.\n- Yeni Doğrudan Arama: Hızlı arama özelliği ve daha iyi arama sonuçları.\n- USB-C Desteği: USB-C bağlantı desteği ile daha hızlı veri aktarımı ve şarj.\n- Geliştirilmiş Ses Kontrolü: Daha iyi ses yönetimi ve Bluetooth ses özellikleri.</string>
-    <string name="android_lollipop_title">Android Lollipop (5.0)</string>
     <string name="lollipop_releasedate">Çıkış Tarihi: Kasım 2014</string>
     <string name="lollipop_text">Özellikler:\n- Material Design: Yeni tasarım dili olan Material Design ile modern ve estetik arayüz.\n- Yeni Uygulama Yöneticisi: Uygulama geçişlerinde daha hızlı ve akıcı deneyim.\n- Geliştirilmiş Bildirimler: Kilit ekranında bildirimlere hızlı erişim ve yönetim.\n- Gelişmiş Pil Yönetimi: Doze modu ile batarya ömründe iyileştirmeler.\n- 64-Bit Desteği: Daha hızlı ve verimli işlem performansı.</string>
     <string name="android_nougat_title">Android Nougat (7.0)</string>

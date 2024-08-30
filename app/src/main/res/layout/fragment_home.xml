@@ -6,12 +6,13 @@
     android:layout_height="match_parent"
     tools:context=".HomeFragment">
 
-    <Switch
+    <com.google.android.material.materialswitch.MaterialSwitch
         android:id="@+id/sw_ego"
-        android:layout_width="wrap_content"
+        android:layout_width="@dimen/_160dp"
         android:layout_height="wrap_content"
         android:layout_marginTop="100dp"
         android:text="@string/switch_ego"
+        android:textSize="@dimen/title"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintStart_toStartOf="parent"
@@ -25,56 +26,61 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent" />
 
-    <Switch
+    <com.google.android.material.materialswitch.MaterialSwitch
         android:id="@+id/sw_1"
-        android:layout_width="wrap_content"
+        android:layout_width="@dimen/_160dp"
         android:layout_height="wrap_content"
         android:layout_marginTop="150dp"
         android:text="@string/switch_1"
+        android:textSize="@dimen/title"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
-    <Switch
+    <com.google.android.material.materialswitch.MaterialSwitch
         android:id="@+id/sw_2"
-        android:layout_width="wrap_content"
+        android:layout_width="@dimen/_160dp"
         android:layout_height="wrap_content"
         android:layout_marginTop="200dp"
         android:text="@string/switch_2"
+        android:textSize="@dimen/title"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
-    <Switch
+    <com.google.android.material.materialswitch.MaterialSwitch
         android:id="@+id/sw_3"
-        android:layout_width="wrap_content"
+        android:layout_width="@dimen/_160dp"
         android:layout_height="wrap_content"
         android:layout_marginTop="250dp"
         android:text="@string/switch_3"
+        android:textSize="@dimen/title"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
-    <Switch
+    <com.google.android.material.materialswitch.MaterialSwitch
         android:id="@+id/sw_4"
-        android:layout_width="wrap_content"
+        android:layout_width="@dimen/_160dp"
         android:layout_height="wrap_content"
         android:layout_marginTop="300dp"
         android:text="@string/switch_4"
+        android:textSize="@dimen/title"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
-    <Switch
+    <com.google.android.material.materialswitch.MaterialSwitch
         android:id="@+id/sw_5"
-        android:layout_width="wrap_content"
+        android:layout_width="@dimen/_160dp"
         android:layout_height="wrap_content"
         android:layout_marginTop="350dp"
         android:text="@string/switch_5"
+        android:textSize="@dimen/title"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintStart_toStartOf="parent"
